@@ -2,7 +2,7 @@ import os
 import sys
 import hashlib
 import argparse
-
+#Use ARGV instead of argparse
 parser = argparse.ArgumentParser()
 
 def fngenhash(filepath,outpath):
