@@ -5,3 +5,9 @@ python3 sit.py [options]
 * -g: Generate hashes for files at a location.
 * -c: Compare and verify file integrity for files at a location.
 * -h: Display the help dialog.
+Please note that this program is still in the development phase. The following features are planned for future releases:
+* Use the SHA256 algorithm for hashing
+* Support for very large files
+* GUI
+* Centralized database for hashing
+* Automatic file monitoring
